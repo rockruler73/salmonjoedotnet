@@ -22,7 +22,7 @@ title: SalmonJoe
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A backup of Samantha and Joe's SalmonJoe blog covering their road trip adventures.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
